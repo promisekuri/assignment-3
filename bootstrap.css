@@ -1,0 +1,33 @@
+.btn-color {
+    background-color: #a16207;
+}
+
+/* .font {
+    font-size: 65px;
+    font-weight: 700;
+    font-family: 'Cormorant Garamond', serif;
+    
+} */
+.card:hover{
+    transform: scale(1.15);
+    transition: 0.08s;
+}
+/* .carousel-item{
+    height: 500px;
+}
+.carousel-item img{
+   height: 500px;
+} */
+.banner-img-1{
+    background-image: url(./images/slider-1.jpg);
+    height: 100vh;
+    min-height: 500px;
+}
+.banner-img-2{
+background-image:url(./images/slider-2.jpg) ;
+height: 100vh;
+}
+.banner-img-3{
+background-image: url(./images/slider-3.jpg);
+height: 100vh;
+}
